@@ -113,6 +113,10 @@ file = "config/yosbr/options.txt"
 hash = "edd18730edde6d07394ca0631b03a8ea4dbe65294f4f13e42152a71ddb3645de"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "1e37772016569d40d36899e1920cc2db233b13ba2f254d91e189f18172c44b3d"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
 metafile = true
