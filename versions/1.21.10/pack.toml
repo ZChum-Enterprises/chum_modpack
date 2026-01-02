@@ -1,0 +1,13 @@
+name = "Chumjar MC Server Modpack"
+author = "memchk"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8738f7a701c2a82cee7ed94f279b500d7489ea86a23d2f028501f61c67ea2bf3"
+
+[versions]
+fabric = "0.18.2"
+minecraft = "1.21.10"
